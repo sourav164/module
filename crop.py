@@ -1,7 +1,8 @@
 import cv2, numpy, os, glob
 import numpy as np
 
-os.chdir(r"D:\training_data\17-18\output")
+# provide location here
+os.chdir(r"")
 all_images = glob.glob("*g")
 
 
